@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class HWIDGetter {
+public class HwIDGetter {
 
     public static void main(String[] args) throws IOException {
         String os = System.getProperty("os.name").toUpperCase();
